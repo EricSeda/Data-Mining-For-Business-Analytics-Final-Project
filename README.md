@@ -14,7 +14,7 @@ Alpha_Airline_Customers_Satisfaction_PhaseI.ipynb
 	
 	Working jupyter notebook
 		Exploratory Analysis
-		aseline Model Creation
+		Baseline Model Creation
 		Feature Engineering
 		Parameter Optimization
 		Model Building
