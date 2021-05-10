@@ -5,11 +5,13 @@ The objective of this project was to identify a business case in which we can em
 --Table Of Contents--
 
 Alpha_Airline_Customer_Satisfaction_PhaseI.docx
+	
 	Business Description and overview
 	Data Description
 	Appendix
 		
 Alpha_Airline_Customers_Satisfaction_PhaseI.ipynb
+	
 	Working jupyter notebook
 		Exploratory Analysis
 		aseline Model Creation
@@ -18,4 +20,5 @@ Alpha_Airline_Customers_Satisfaction_PhaseI.ipynb
 		Model Building
 	
 Investico_Airline(1).csv
+	
 	Data
